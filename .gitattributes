@@ -1,1 +1,3 @@
 *.cfg linguist-detectable=false
+*.ps1 linguist-detectable=false
+*.py linguist-detectable=true
